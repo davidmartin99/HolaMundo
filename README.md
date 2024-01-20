@@ -20,8 +20,6 @@ Primero
     - bueno
 * Capaz
 
-¡Estoy <span style="font-family:; font-size:4em;">ENAMORADO!</span>
-\textcolor{color=red}{el\_texto}
 
 
 > [!NOTE]
